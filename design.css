@@ -1,0 +1,254 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: border-box;
+}
+
+body{
+    background-color: black;
+    background-image: url("https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg");
+    font-family: 'Poppins', sans-serif;
+    /* position: fixed; */
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    height: 92px;
+    background-color: transparent;
+    filter: brightness(100%);
+
+    
+}
+
+.logo{
+    background-image: url("logo.png");
+    background-size: cover;
+    height: 40px;
+    width: 148px;
+    margin-left: 155px;
+    margin-top: 22px;
+    position: absolute;
+    filter: brightness(100%);
+}
+
+.selct select{
+    height: 32px;
+    width: 110px;
+    text-align: center;
+    float: right;
+    margin-left: 968px;
+    background-color: transparent;
+    border: 1px solid rgb(240, 191, 191);
+    border-radius: 4px;
+    margin-top: 22px;
+    position: absolute;
+    margin-bottom: 20px;
+    font-size: medium;
+    color: white;
+}
+
+.buton button{
+    height: 32px;
+    width: 75px;
+    text-align: center;
+    float: right;
+   margin-right: 183px;
+   margin-top: 22px;
+   border-radius: 4px;
+   background-color: rgb(255, 45, 45);
+   font-size: medium;
+   border: 1px solid transparent;
+}
+
+.buton button:hover{
+    background-color: rgb(232, 27, 27);
+}
+
+.main h1{
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 180px;
+    font-size: 50px;
+}
+
+.secondh2{
+    margin-left: 353px;
+    color: white;
+    font-style: 'Inconsolata', monospace;
+    font-size: 20px;
+}
+
+.thirdh3{
+    color: white;
+    margin-left: 405px;
+}
+
+.email input{
+    height: 56px;
+    width: 374px;
+    background-color: transparent;
+    margin-left: 390px;
+    padding-left: 20px;
+    color: white;
+    filter: brightness(1000%);
+    
+    
+}
+
+
+.button2 button{
+    height: 56px;
+    width: 203px;
+    float: right;
+    position: absolute;
+    margin-bottom: 200px;
+    margin-left: 800px;
+    margin-top: -58px;
+    background-color: rgb(255, 45, 45);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 25px;
+    color: white;
+}
+
+.button2 button:hover{
+    background-color: rgb(232, 27, 27);
+    
+}
+
+.line{
+    height: 7px;
+   width: 1348px;
+    background-color:grey;
+}
+
+.video{
+    height: 533px;
+    width: 1348px;
+    background-color: black;
+    position: absolute;
+}
+
+
+.onetext{
+    background-size: cover;
+    color: white;
+    margin-top: 174px;
+    margin-left: 180px;
+    font-size: 25px;
+    width: fit-content;
+}
+
+.realvideo{
+    background-image: url("feature-1.png");
+    height: 383px;
+    width: 511px;
+    background-size: cover;
+    float: right;
+    margin-top: -162px;
+    margin-right: 100px;
+    
+
+}
+
+
+.secondtext h3{
+    color: white;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+.line2{
+    height: 7px;
+    width: 1348px;
+     background-color:grey;
+     margin-top: 210px;
+}
+
+
+
+.main3{
+    color: white;
+    background-color: black;
+    height: 258px;
+    float: right;
+    margin-right: 132px;
+    margin-top: 100px;
+    font-size: 27px;
+    margin-left: 200px;
+   
+
+}
+
+.img3{
+    height: 60px;
+    width: 100px;
+}
+
+.realmain3{
+    height: 560px;
+    background-color: black;
+
+}
+
+.midline{
+    height: 7px;
+    width: 1348px;
+    background-color: grey;
+}
+
+.main5{
+    height: 0px;
+    background-color: black;
+}
+
+.main5 h1{
+    color: white;
+    margin-top: 151px;
+    margin-left: 150px;
+    font-size: 50px;
+}
+
+.main5 h4{
+    color: white;
+    height: 10px;
+    margin-left: 153px;
+    margin-top: 16px;
+}
+
+.img6 img{
+    margin-left: 625px;
+    margin-bottom: 100px;
+    
+}
+
+.line8{
+    height: 7px;
+    width: 1348px;
+    background-color: grey;
+    margin-bottom: 100px;
+}
+/* 
+.main6{
+    /* height: 568px; */
+    background-color: black;
+    color: white;
+    margin-left: 150px;
+    justify-content: space-between;
+    width: fit-content;
+}
+
+
+.main7{
+    background-color: black;
+    color: white;
+    margin-left: 150px;
+    justify-content: space-between;
+    display: inline;
+} */
+
+
+
+
+
