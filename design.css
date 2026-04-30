@@ -48,14 +48,14 @@ body{
 }
 
 .buton button{
-    height: 32px;
+    height: 33px;
     width: 75px;
     text-align: center;
     float: right;
    margin-right: 183px;
    margin-top: 22px;
    border-radius: 4px;
-   background-color: rgb(255, 45, 45);
+   background-color: rgb(229, 34, 34);
    font-size: medium;
    border: 1px solid transparent;
 }
